@@ -20,7 +20,7 @@ Skribbl_IO-FriendFinder uses a straightforward method to locate your friend in p
 
 To install the extension without building it yourself, follow these steps:
 
-- Download the latest release from [here](#https://github.com/sero583/Skribbl_IO-FriendFinder/releases/tag/main) and save the ZIP file.
+- Download the latest release from [here](https://github.com/sero583/Skribbl_IO-FriendFinder/releases/tag/release) and save the ZIP file.
 - Extract the ZIP file into a folder.
 - Open Chrome and navigate to `chrome://extensions`.
 - Enable "Developer mode" using the toggle in the top-right corner.
